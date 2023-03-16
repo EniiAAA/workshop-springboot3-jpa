@@ -8,11 +8,11 @@
 		<version>3.0.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.educandoweb</groupId>
-	<artifactId>curso</artifactId>
+	<groupId>com.course</groupId>
+	<artifactId>course</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>curso</name>
-	<description>Demo project for Spring Boot</description>
+	<description>WebProject</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
